@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxe Salon - Mumbai Luxury Beauty",
+  "description": "Mumbai's premier haute-coiffure and wellness sanctuary. Bespoke hair rituals, Ayurvedic cellular skin therapies, and artisanal wellness ceremonies across Pali Hill Bandra, Colaba, and Juhu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

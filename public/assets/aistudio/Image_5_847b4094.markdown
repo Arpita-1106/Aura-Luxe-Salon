@@ -1,0 +1,247 @@
+---
+name: Warm Luxury & Tactile Serenity
+colors:
+  surface: '#fff8f8'
+  surface-dim: '#dfd8d9'
+  surface-bright: '#fff8f8'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f9f2f3'
+  surface-container: '#f4eced'
+  surface-container-high: '#eee6e7'
+  surface-container-highest: '#e8e1e2'
+  on-surface: '#1e1b1c'
+  on-surface-variant: '#534342'
+  inverse-surface: '#332f30'
+  inverse-on-surface: '#f7eff0'
+  outline: '#857372'
+  outline-variant: '#d8c1c0'
+  surface-tint: '#8d4b4b'
+  primary: '#6f3334'
+  on-primary: '#ffffff'
+  primary-container: '#8c4a4a'
+  on-primary-container: '#ffcac8'
+  inverse-primary: '#ffb3b1'
+  secondary: '#735a40'
+  on-secondary: '#ffffff'
+  secondary-container: '#fcdab9'
+  on-secondary-container: '#775e44'
+  tertiary: '#653a3b'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#7f5151'
+  on-tertiary-container: '#ffcaca'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#ffdad8'
+  primary-fixed-dim: '#ffb3b1'
+  on-primary-fixed: '#3a0a0d'
+  on-primary-fixed-variant: '#713435'
+  secondary-fixed: '#ffdcbc'
+  secondary-fixed-dim: '#e2c1a1'
+  on-secondary-fixed: '#291805'
+  on-secondary-fixed-variant: '#59422b'
+  tertiary-fixed: '#ffdad9'
+  tertiary-fixed-dim: '#f4b7b7'
+  on-tertiary-fixed: '#321112'
+  on-tertiary-fixed-variant: '#663b3c'
+  background: '#fff8f8'
+  on-background: '#1e1b1c'
+  surface-variant: '#e8e1e2'
+typography:
+  display:
+    fontFamily: Playfair Display
+    fontSize: 56px
+    fontWeight: '500'
+    lineHeight: 64px
+    letterSpacing: -0.02em
+  display-mobile:
+    fontFamily: Playfair Display
+    fontSize: 40px
+    fontWeight: '500'
+    lineHeight: 48px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Playfair Display
+    fontSize: 40px
+    fontWeight: '500'
+    lineHeight: 48px
+    letterSpacing: -0.015em
+  headline-lg-mobile:
+    fontFamily: Playfair Display
+    fontSize: 32px
+    fontWeight: '500'
+    lineHeight: 40px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Playfair Display
+    fontSize: 30px
+    fontWeight: '500'
+    lineHeight: 38px
+    letterSpacing: 0em
+  headline-sm:
+    fontFamily: Playfair Display
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 30px
+    letterSpacing: 0em
+  title-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 26px
+    letterSpacing: 0.01em
+  title-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+    letterSpacing: 0.01em
+  body-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 17px
+    fontWeight: '400'
+    lineHeight: 28px
+    letterSpacing: 0em
+  body-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.04em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.06em
+  label-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 14px
+    letterSpacing: 0.08em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 3rem
+  margin-mobile: 1.25rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system establishes an atmospheric digital presence for an upscale beauty and wellness salon in Mumbai. It fuses classical architectural elegance with contemporary Indian luxury, avoiding sterile minimalism in favor of an inviting, sensory-rich sanctuary aesthetic.
+
+The visual direction centers on **Warm Editorial Minimalism**. It relies on generous, unhurried negative space, tactile warm ivory surfaces, delicate champagne highlights, and expressive high-fashion editorial typography. The target audience comprises discerning patrons seeking premium hair care, bespoke skin treatments, and holistic wellness rituals. 
+
+The emotional tone balances tranquility, exclusivity, and warm hospitality. Every interactive surface conveys refinement, measured cadence, and effortless grace.
+
+## Colors
+
+The palette is rooted in calming earthen foundations, gentle cosmetic tones, and warm metallic accents:
+
+- **Base & Canvas Surfaces**:
+  - `canvas-default`: `#FAF7F2` (Warm Ivory canvas providing soft radiance without optical glare)
+  - `canvas-subtle`: `#F4EFEB` (Muted Alabaster/Cream for layered container cards and panels)
+  - `canvas-elevated`: `#FFFFFF` (Pristine paper-white for elevated modal dialogs and active cards)
+- **Primary & Accent Tones**:
+  - `primary`: `#8C4A4A` (Deep Burnished Rosewood; anchor for primary interactive states, dark badges, and prominent links)
+  - `primary-hover`: `#753C3C` (Pressed vintage rosewood)
+  - `secondary`: `#DFBE9F` (Warm Champagne Gold; subtle highlight borders, icons, tier distinctions, and celebratory tags)
+  - `accent-blush`: `#D49B9B` (Muted Dusty Rose; soft fills, decorative tags, and state tints)
+  - `accent-blush-subtle`: `#F5EBEB` (Ultra-soft rose wash for active selections and pill backgrounds)
+- **Typography & Neutrals**:
+  - `text-primary`: `#221F20` (Dark Espresso Charcoal for editorial contrast and absolute legibility)
+  - `text-secondary`: `#5E5557` (Warm Taupe Charcoal for subheadings and secondary metadata)
+  - `text-muted`: `#8C8284` (Soft Umber for captions, placeholders, and inactive states)
+- **Dividers & Structural Borders**:
+  - `border-subtle`: `#EAE3DA` (Featherweight cream-tan rule)
+  - `border-strong`: `#D6CBC0` (Crisp structural boundaries and input borders)
+
+## Typography
+
+The type system blends the high-fashion editorial presence of **Playfair Display** with the clear geometric utility of **Plus Jakarta Sans**. 
+
+- **Display & Headlines (Playfair Display)**: Imparts classic beauty, warmth, and bespoke craftsmanship. Headings must always maintain relaxed leading and restrained weights (500–600) to keep strokes sharp and luxurious. Avoid heavy bold styling.
+- **Body & UI (Plus Jakarta Sans)**: Ensures instant clarity for service menus, treatment durations, ingredient descriptions, and appointment workflows. Open letterforms prevent visual crowding.
+- **Micro-Copy & Overlines**: Uppercase tracking (0.06em–0.08em) on `label-sm` and `label-md` creates an elevated Parisian and boutique feel for salon categories, service tiers, and pricing subtitles.
+
+## Layout & Spacing
+
+The layout philosophy uses a **12-column responsive grid** engineered with generous margins to mirror high-end print lookbooks.
+
+- **Breakpoints**:
+  - `mobile`: 0px – 767px (4 columns, `margin-mobile: 1.25rem`, `gutter-mobile: 1rem`)
+  - `tablet`: 768px – 1199px (8 columns, margin: 2rem, gutter: 1.25rem)
+  - `desktop`: 1200px+ (12 columns, max-width: 1360px centered, `margin: 3rem`, `gutter: 1.5rem`)
+
+Layouts should favor asymmetrical offsets, generous breathing room between thematic sections, and staggered media-to-text ratios (5:7 or 7:5 column spans) rather than equal, rigid grids. Padding within interactive modules remains spacious to evoke a slow, pampering cadence.
+
+## Elevation & Depth
+
+Visual hierarchy rejects harsh, sterile drop shadows in favor of **Tonal Layers** accented by **Warm Ambient Glows**:
+
+- **Surface Tiers**:
+  - Level 0 (Base Canvas): `#FAF7F2`
+  - Level 1 (Surface Cards & Panels): `#F4EFEB` with a single 1px hairline border in `#EAE3DA`
+  - Level 2 (Floating & Active Cards): `#FFFFFF` accompanied by an ultra-soft ambient shadow: `0 8px 30px rgba(59, 51, 53, 0.04)`
+  - Level 3 (Drawers, Overlays & Sticky Navigations): `#FAF7F2` at 92% opacity with `backdrop-filter: blur(12px)` and shadow `0 16px 48px rgba(59, 51, 53, 0.08)`
+
+- **Accent Glow**: Select VIP modules and gold tags incorporate a faint champagne aura: `0 4px 20px rgba(223, 190, 159, 0.25)`.
+
+## Shapes
+
+The design uses subtle, tailored softness (`roundedness: 1`), creating balanced corners that feel structured rather than overtly bubbly or playful:
+
+- **Micro elements & inputs**: 4px radius (`rounded-sm` / 0.25rem) for a precise, architectural line.
+- **Cards & modal containers**: 8px radius (`rounded-lg` / 0.5rem) providing delicate, organic softness without diminishing the crisp layout structure.
+- **Pill exceptions**: Expressive exceptions (`9999px`) are reserved strictly for circular icon containers, category chips, floating status indicators, and booking step pills to denote tactile, physical beads or stones.
+
+## Components
+
+### Buttons
+- **Primary Action (Book Ritual / Reserve)**: Background `#8C4A4A`, text `#FAF7F2`, font `label-lg`, height `48px`, padding `0 24px`, border-radius `4px`. Hover shifts to `#753C3C` with smooth transition (`200ms ease-out`).
+- **Secondary (Explore Menu)**: Background transparent, border `1px solid #DFBE9F`, text `#221F20`. Hover transitions background to `rgba(223, 190, 159, 0.12)`.
+- **Tertiary / Text**: Text `#8C4A4A` with a continuous subtle underline `1px solid rgba(140, 74, 74, 0.4)` and uppercase `label-md` tracking.
+
+### Cards
+- **Service & Experience Cards**: Background `#F4EFEB`, 1px border `#EAE3DA`, 8px corner radius, internal padding `space-xl` (2.5rem). Features service title in `headline-sm`, subtitle/duration in `label-md` uppercase tracked gold, and price anchor styled cleanly in `title-lg`. Hover lifts card via `transform: translateY(-2px)` and subtle shadow.
+
+### Chips & Badges
+- **Category Filter Chips**: Border `1px solid #EAE3DA`, background transparent, text `#5E5557`, pill-radius `9999px`, padding `6px 16px`. Active state transitions to background `#8C4A4A`, border `#8C4A4A`, text `#FAF7F2`.
+- **Specialty Badges (Ayurvedic Fusion, Organic)**: Background `#F5EBEB`, text `#8C4A4A`, border `1px solid #D49B9B`, rounded `9999px`, font `label-sm`.
+
+### Input Fields & Selectors
+- **Form Controls**: Background `#FFFFFF`, border `1px solid #D6CBC0`, text `#221F20`, height `48px`, padding `0 16px`, corner radius `4px`.
+- **Focused State**: Border shifts to `#8C4A4A` with zero ring offset, displaying a faint `0 0 0 3px rgba(212, 155, 155, 0.2)`. Labels rest above inputs in `label-md` uppercase tracked taupe.
+
+### Selection Controls
+- **Radio & Checkbox**: Unchecked border `1px solid #D6CBC0` against `#FFFFFF`. Checked background `#8C4A4A` with ivory iconography. Radios are 20px circles; checkboxes maintain a subtle 3px radius.
+
+### Domain-Specific Components
+- **Stylist / Therapist Avatar Cards**: Tall aspect ratio portrait frames (3:4) with `8px` corner radius, champagne outline frame on hover, accompanied by name in `Playfair Display` and experience tag.
+- **Service Menu Accordion**: Thin hairline divider `#EAE3DA` spanning full container width; collapsed header in `Playfair Display` with right-aligned duration and pricing in `Plus Jakarta Sans`, expanding to show full ritual rituals and botanical ingredients.

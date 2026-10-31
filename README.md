@@ -1,2 +1,20 @@
-# Aura-Luxe-Salon
-A luxury salon website for Aura Luxe Salon, featuring an elegant responsive UI, curated beauty rituals, multi-step appointment booking, membership tiers, artisan profiles, and calendar integration. Built with React, TypeScript, and AI-assisted development using Google AI Studio and Stitch.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/aeae37fd-db69-4a87-88b0-6fc1e6d7d2a4
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
